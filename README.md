@@ -1,5 +1,3 @@
-![logo](https://github.com/ShubhamMogha97/ShubhamMogha97/blob/main/ShubhamImage.jpg)
-
 
 <h1 align="center">Hi 👋, I'm Shubham Mogha</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
